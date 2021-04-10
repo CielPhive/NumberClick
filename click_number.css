@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color:rgb(202, 202, 202);
+
+    margin:0 auto;
+    max-width:960px;
+    text-align:center;
+}
+.btn {
+    width: 100px;
+    height: 100px;
+    background: rgb(18, 245, 207);
+    cursor: pointer;
+    transition: 0.8s;
+    margin: 0 8px 8px 0;
+    text-align: center;
+    line-height: 100px;
+    font-size:60px;
+    /* color:white; */
+  }
+.success{
+    opacity:0.7;
+    background:rgb(68, 71, 71);
+}
+.miss{
+    opacity:1;
+}
+.start{
+    font-size: 60px;
+    padding:10px 20px;
+    margin-bottom: 30px;
+}
+
+.next {
+    width: 100px;
+    height: 100px;
+    background: skyblue;
+    cursor: pointer;
+    transition: 0.8s;
+    margin: 0 8px 8px 0;
+    text-align: center;
+    line-height: 100px;
+  }
