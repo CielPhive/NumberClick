@@ -5,3 +5,6 @@ JavaScriptで作った簡単なゲームです。
 ＊追加したい機能＊
 ⓵タイム測定
 ⓶ランキング表示
+
+＊アクセス＊
+「https://cielphive.github.io/NumberClick/」
