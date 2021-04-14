@@ -7,4 +7,4 @@ JavaScriptで作った簡単なゲームです。
 ⓶ランキング表示
 
 ＊アクセス＊
-「https://cielphive.github.io/NumberClick/」
+https://cielphive.github.io/NumberClick/
